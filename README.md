@@ -1,6 +1,7 @@
 # CS685_Computer_Vision
 
-This assignments are part of CS685:Computer Vision course took in Spring2020 at University of Nevada, Reno.
+These assignments are part of CS685: Computer Vision course took in Spring2020 at the University of Nevada, Reno.
+
 
 # Requirements
 ```
